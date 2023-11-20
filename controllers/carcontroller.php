@@ -35,7 +35,7 @@
             deleteCar($carId);
         }
 
-        header("Location: ../pages/cars.php");
+        header("Location: ../pages/character.php");
         die();
     }
 

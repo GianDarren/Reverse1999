@@ -2,10 +2,13 @@ body {
     background-color: #333;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    background: url("../assets/WallpaperR.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 
 .registration-container {
-    background-color: #fff;
+    background-color: rgba(255,255,255,0.5);
     border-radius: 10px;
     width: 300px;
     margin: 100px auto;

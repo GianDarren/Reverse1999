@@ -22,7 +22,7 @@
             <br>
             <input type="submit" value="Register">
             <div>
-            already have an account ? <a id="italic" href="./login.php">login now!</a>
+            Already have an account ? <a id="italic" href="./login.php">Login now!</a>
             </div>
         </form>
     </div>

@@ -5,13 +5,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url("../assets/andrew.png");
+    background: url("../assets/WallpaperS.jpg");
     background-repeat: no-repeat;
     background-size:cover;
 }
 
 form {
-    background-color: #fff;
+    background-color: rgba(255,255,255,0.5);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
